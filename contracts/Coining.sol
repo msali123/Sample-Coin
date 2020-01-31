@@ -1,5 +1,6 @@
 pragma solidity 0.5.11;
 contract myCoin{
+    
     address payable deployer;
     constructor() public{
        deployer = msg.sender;
