@@ -66,3 +66,20 @@ To Run this smart contract please follow following steps
 ## Important
 Check your host and port, make sure to replace it in ```truffle-config.js```
 
+Starting my 10 days of code challenge.
+
+Focusing on Solidity Smart Contract Development.
+
+Will be trying to make a token according to ERC-20 Standards.
+
+A great article shared by Sir Qasim S. Ferozpurwala
+
+(https://www.freecodecamp.org/news/how-to-make-programming-a-daily-habit/?fbclid=IwAR3Qbds7VPUm6Uy4N-E0vUtM0Ohl8T8UtfGYmzA-rHVVtT1G46P15Jh501M)
+
+
+
+Day 1: started the course at udemy.
+
+Finished the basic introduction.
+
+#10daysofcode 
